@@ -39,14 +39,5 @@ This project analyzes and reconciles invoice and payment data from **MedsCo** fo
 
 ---
 
-## 🛠️ Tools Used
 
-- Microsoft Excel (raw data)
-- Python (optional analysis)
-- Pandas (data cleaning & reconciliation)
-- Git & GitHub (version control)
-
----
-
-## 📁 Project Structure
 
